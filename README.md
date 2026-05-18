@@ -1,6 +1,6 @@
 # work1
 
-本仓库用于整理 Agent、Hermes CLI 和 Minikube 相关实验作业。
+本仓库用于整理 Agent、Hermes CLI 和 Minikube 相关实验。
 
 ## 目录结构
 
